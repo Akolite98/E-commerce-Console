@@ -1,0 +1,16 @@
+{
+  "name": "e-commerce-console-app",
+  "version": "1.0.0",
+  "description": "Simple E-commerce app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Precious Nnorom",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.13",
+    "node-fetch": "^3.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
